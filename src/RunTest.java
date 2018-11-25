@@ -1,13 +1,11 @@
 
-import tasks.Task012;
-
-import java.util.*;
+import tasks.*;
 
 public class RunTest {
 
     public static void main(String[] args) {
 
-        Task012.runTest();
+        Task667.runTest();
 
     }
 
