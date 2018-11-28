@@ -1,5 +1,7 @@
 package tasks;
 
+/* No solution yet !!! */
+
 /** 712. Minimum ASCII Delete Sum for Two Strings */
 public class Task712 {
 
